@@ -30,8 +30,7 @@ A Java banking application demonstrating account management, transactions, and b
 
 **Technology:** Java
 
-[View Project]((https://github.com/UnityMontjane00/Java-Banking-System-))
-
+[View Project]([(https://github.com/UnityMontjane00/Java-Banking-System-)]
 ---
 
 ### Java BMI Calculator
@@ -40,4 +39,4 @@ A Java application that calculates BMI and determines health classifications bas
 
 **Technology:** Java
 
-[View Project]((https://github.com/UnityMontjane00/Java-BMI-Calculator))
+[View Project]([(https://github.com/UnityMontjane00/Java-BMI-Calculator))]
