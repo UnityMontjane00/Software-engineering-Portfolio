@@ -39,4 +39,4 @@ A Java application that calculates BMI and determines health classifications bas
 
 **Technology:** Java
 
-[View Project]([(https://github.com/UnityMontjane00/Java-BMI-Calculator))]
+[View Project](https://github.com/UnityMontjane00/Java-BMI-Calculator)
